@@ -1,0 +1,7 @@
+faiss-cpu
+sentence-transformers
+rank-bm25
+langgraph
+langchain
+google-genai
+numpy
